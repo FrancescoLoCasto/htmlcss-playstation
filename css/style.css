@@ -37,6 +37,13 @@ section.jumbotron{
    background-position: center;
 }
 
+section.second-jumbotron{
+   height: 100vh;
+   background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+   background-size: cover;
+   background-position: center;
+}
+
 div.jumbo-content{
    margin-left: 1rem;
    color: white;
@@ -126,7 +133,18 @@ footer{
 
 .img-returnal img{
    height: 70px;
+}
 
+
+.img-ttl{
+   height: 70px;
+   width: 70px;
+
+}
+
+.my_card img{
+   height: 100%;
+   width: 100%;
 }
 
 .content-jumbo-space{
