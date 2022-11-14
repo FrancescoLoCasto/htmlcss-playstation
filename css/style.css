@@ -35,3 +35,8 @@ div.jumbo-content{
    height: 40vh;
    background-color: rgb(134, 110, 79);
 }
+
+.second-jumbotron{
+   height: 50vh;
+   background-color: brown;
+}
