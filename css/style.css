@@ -8,3 +8,14 @@ form li{
    list-style: none;
    margin: 1rem;
 }
+
+
+section.jumbotron{
+   height: 50vh;
+   background-color: brown;
+}
+
+div.jumbo-content{
+   margin-left: 1rem;
+   color: white;
+}
