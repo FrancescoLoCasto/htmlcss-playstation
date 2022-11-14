@@ -12,7 +12,7 @@ form li{
 
 section.jumbotron{
    height: 50vh;
-   background-color: brown;
+   background-image: url(../img/jumbo-bg.png);
 }
 
 div.jumbo-content{
@@ -95,4 +95,9 @@ footer{
    height: 80px;
    width: 80px;
    background-color: brown;
+}
+
+.img-sony-logo img{
+   height: 15px;
+   margin-left: 94.5rem;
 }
