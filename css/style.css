@@ -4,15 +4,37 @@
    margin: 0 auto;
 }
 
+body{
+   overflow-y: scroll;
+   overflow-x: hidden;
+}
+
 form li{
    list-style: none;
    margin: 1rem;
 }
 
+form img.img-small{
+   height: 1rem;
+
+}
+
+li img{
+   height: 1rem;
+}
+
+form img{
+   margin-left: 1rem;
+   margin-top: 1rem;
+   height: 2rem;
+}
+
 
 section.jumbotron{
-   height: 50vh;
+   height: 100vh;
    background-image: url(../img/jumbo-bg.png);
+   background-size: cover;
+   background-position: center;
 }
 
 div.jumbo-content{
@@ -101,3 +123,13 @@ footer{
    height: 15px;
    margin-left: 94.5rem;
 }
+
+.img-returnal img{
+   height: 70px;
+
+}
+
+.content-jumbo-space{
+   margin-top: 40rem;
+}
+
