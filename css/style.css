@@ -19,3 +19,9 @@ div.jumbo-content{
    margin-left: 1rem;
    color: white;
 }
+
+.my_card{
+   height: 100px;
+   width: 200px;
+   background-color: blue;
+}
