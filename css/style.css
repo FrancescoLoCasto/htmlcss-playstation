@@ -54,6 +54,11 @@ div.jumbo-content{
    background-color: lightgray;
 }
 
+.playstation-now{
+   height: 40vh;
+   background-color: blueviolet;
+}
+
 .img-display{
    height: 40vh;
    background-color: orange;
