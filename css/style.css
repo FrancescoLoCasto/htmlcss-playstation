@@ -20,6 +20,10 @@ div.jumbo-content{
    color: white;
 }
 
+footer{
+
+}
+
 
 
 .my_card{
@@ -74,4 +78,21 @@ div.jumbo-content{
    height: 150px;
    width: 150px;
    background-color: rgb(14, 111, 197);
+}
+
+.blue-footer-wrapper{
+   background-color: #00439c;
+   color: white;
+}
+
+.blue-footer-wrapper ul{
+   list-style: none;
+}
+
+
+
+.img-logo-ps-test{
+   height: 80px;
+   width: 80px;
+   background-color: brown;
 }
