@@ -1,0 +1,10 @@
+.black-banner-top{
+   height: 30px;
+   background-color: black;
+   margin: 0 auto;
+}
+
+form li{
+   list-style: none;
+   margin: 1rem;
+}
