@@ -26,6 +26,12 @@ div.jumbo-content{
    background-color: blue;
 }
 
+.my_card-cube{
+   height: 150px;
+   width: 150px;
+   background-color: rgb(2, 2, 84);
+}
+
 .left-img-text{
    height: 40vh;
    background-color: burlywood;
