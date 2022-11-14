@@ -25,3 +25,13 @@ div.jumbo-content{
    width: 200px;
    background-color: blue;
 }
+
+.left-img-text{
+   height: 40vh;
+   background-color: burlywood;
+}
+
+.img-play{
+   height: 40vh;
+   background-color: rgb(134, 110, 79);
+}
