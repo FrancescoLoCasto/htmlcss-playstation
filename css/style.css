@@ -20,6 +20,8 @@ div.jumbo-content{
    color: white;
 }
 
+
+
 .my_card{
    height: 100px;
    width: 200px;
@@ -45,4 +47,14 @@ div.jumbo-content{
 .second-jumbotron{
    height: 50vh;
    background-color: brown;
+}
+
+.playstation-plus{
+   height: 40vh;
+   background-color: lightgray;
+}
+
+.img-display{
+   height: 40vh;
+   background-color: orange;
 }
