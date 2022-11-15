@@ -139,6 +139,7 @@ footer{
 .img-logo-ps-test{
    height: 80px;
    width: 80px;
+   margin: 1rem;
 }
 
 .img-sony-logo img{
@@ -199,3 +200,10 @@ footer{
 .social-test img{
    height: 100%;
 }
+
+.img-logo-ps-test img{
+   margin: 1rem;
+   height: 100%;
+}
+
+/* Media query */
