@@ -69,12 +69,10 @@ footer{
 
 .left-img-text{
    height: 40vh;
-   background-color: burlywood;
 }
 
 .img-play{
    height: 40vh;
-   background-color: rgb(134, 110, 79);
 }
 
 .second-jumbotron{
@@ -123,7 +121,6 @@ footer{
 .img-logo-ps-test{
    height: 80px;
    width: 80px;
-   background-color: brown;
 }
 
 .img-sony-logo img{
@@ -149,5 +146,10 @@ footer{
 
 .content-jumbo-space{
    margin-top: 40rem;
+}
+
+.console-playstation img{
+   height: 100%;
+   width: 70%;
 }
 
