@@ -212,3 +212,16 @@ footer{
 }
 
 /* Media query */
+
+
+@media screen and (max-width: 768px)  {
+
+   .img-display-now{
+      display: none;
+   }
+
+   .img-display{
+      display: none;
+   }
+   
+}
