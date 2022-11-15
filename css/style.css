@@ -58,7 +58,16 @@ footer{
 .my_card{
    height: 100px;
    width: 200px;
-   background-color: blue;
+}
+
+.my_card_{
+   height: 200px;
+   width: 200px;
+}
+
+
+.my_card_ img{
+   width: 100%;
 }
 
 .my_card-cube{
