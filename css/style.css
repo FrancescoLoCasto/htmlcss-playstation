@@ -110,7 +110,6 @@ footer{
 
 .img-display{
    height: 40vh;
-   background-color: orange;
 }
 
 .cube-test{
@@ -169,5 +168,18 @@ footer{
 .console-playstation img{
    height: 100%;
    width: 70%;
+}
+
+
+.playstation-plus img{
+   height: 20%;
+}
+
+.img-display img{
+   height: 100%;
+}
+
+.big-cube img{
+   height: 100%;
 }
 
