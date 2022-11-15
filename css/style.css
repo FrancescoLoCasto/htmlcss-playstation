@@ -4,9 +4,14 @@
    margin: 0 auto;
 }
 
+header{
+   font-family: Helvetica, sans-serif;
+}
+
 body{
    overflow-y: scroll;
    overflow-x: hidden;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 form li{
@@ -38,7 +43,6 @@ section.jumbotron{
 }
 
 section.second-jumbotron{
-   height: 100vh;
    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
    background-size: cover;
    background-position: center;
@@ -93,10 +97,7 @@ footer{
    height: 40vh;
 }
 
-.second-jumbotron{
-   height: 50vh;
-   background-color: brown;
-}
+
 
 .playstation-plus{
    height: 40vh;
@@ -154,8 +155,12 @@ footer{
 
 .img-ttl{
    height: 70px;
-   width: 70px;
+   margin-bottom: 3rem;
 
+}
+
+.img-ttl img{
+   height: 120px;
 }
 
 .my_card img{
