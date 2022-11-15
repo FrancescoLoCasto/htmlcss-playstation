@@ -104,8 +104,9 @@ footer{
 }
 
 .playstation-now{
-   height: 40vh;
-   background-color: blueviolet;
+   height: 50vh;
+   background-color: #161c3b;
+   color: white;
 }
 
 .img-display{
@@ -180,6 +181,18 @@ footer{
 }
 
 .big-cube img{
+   height: 100%;
+}
+
+.playstation-now img{
+   height: 15%;
+}
+
+.img-display-now{
+   height: 50vh;
+}
+
+.img-display-now img{
    height: 100%;
 }
 
