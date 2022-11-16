@@ -114,15 +114,13 @@ footer{
 }
 
 .cube-test{
-   height: 300px;
-   width: 300px;
-   background-color: blue;
+   height: 250px;
+   width: 250px;
 }
 
 .social-test{
    height: 100px;
    width: 100px;
-   background-color: rgb(14, 111, 197);
 }
 
 .blue-footer-wrapper{
@@ -154,7 +152,7 @@ footer{
 
 .img-ttl{
    height: 70px;
-   margin-bottom: 3rem;
+   margin-bottom: 5rem;
 
 }
 
