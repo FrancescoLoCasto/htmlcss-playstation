@@ -36,7 +36,7 @@ form img{
 
 
 section.jumbotron{
-   height: 100vh;
+   padding: 1rem;
    background-image: url(../img/jumbo-bg.png);
    background-size: cover;
    background-position: center;
